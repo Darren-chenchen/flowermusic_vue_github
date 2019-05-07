@@ -3,20 +3,22 @@
 ### 1、部分截图
 
 
-![()](https://raw.githubusercontent.com/Darren-chenchen/flutter_flowermusic/master/screenShots/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-05-06%20at%2018.23.151.png)
-![](https://raw.githubusercontent.com/Darren-chenchen/flutter_flowermusic/master/screenShots/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-05-06%20at%2018.23.18.png)
-![](https://raw.githubusercontent.com/Darren-chenchen/flutter_flowermusic/master/screenShots/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-05-06%20at%2018.23.21.png)
-![](https://raw.githubusercontent.com/Darren-chenchen/flutter_flowermusic/master/screenShots/Simulator%20Screen%20Shot%20-%20iPhone%20X%CA%80%20-%202019-05-06%20at%2018.23.25.png)
+![()](https://raw.githubusercontent.com/Darren-chenchen/flowermusic_vue_github/master/pictures/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-05-07%20at%2010.47.09.png)
+![](https://raw.githubusercontent.com/Darren-chenchen/flowermusic_vue_github/master/pictures/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-05-07%20at%2010.47.27.png)
+![](https://raw.githubusercontent.com/Darren-chenchen/flowermusic_vue_github/master/pictures/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-05-07%20at%2010.47.30.png)
+![](https://raw.githubusercontent.com/Darren-chenchen/flowermusic_vue_github/master/pictures/Simulator%20Screen%20Shot%20-%20iPhone%20XR%20-%202019-05-07%20at%2010.47.35.png)
 
 
 ### 2、[Flutter项目请点击查看](https://github.com/Darren-chenchen/flutter_flowermusic)
 
 
+---
+---
 
 
 # 安卓请扫码下载体验，ios没有证书，无法下载。
 
-![](https://raw.githubusercontent.com/Darren-chenchen/flutter_flowermusic/master/screenShots/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-07%20%E4%B8%8A%E5%8D%889.14.20.png)
+![](https://raw.githubusercontent.com/Darren-chenchen/flowermusic_vue_github/master/pictures/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-07%20%E4%B8%8A%E5%8D%8810.44.25.png)
 
 
 # 项目结构
